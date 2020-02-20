@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JarFile/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="JarFile/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="JarFile/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="JarFile/groovy-2.4.4.jar"/>
+	<classpathentry kind="lib" path="JarFile/groovy-json-2.4.4.jar"/>
+	<classpathentry kind="lib" path="JarFile/groovy-xml-2.4.4.jar"/>
+	<classpathentry kind="lib" path="JarFile/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="JarFile/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="JarFile/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="JarFile/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="JarFile/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="JarFile/json-path-2.9.0.jar"/>
+	<classpathentry kind="lib" path="JarFile/rest-assured-2.9.0.jar"/>
+	<classpathentry kind="lib" path="JarFile/rest-assured-common-2.9.0.jar"/>
+	<classpathentry kind="lib" path="JarFile/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="JarFile/xml-path-2.9.0.jar"/>
+	<classpathentry kind="lib" path="JarFile/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="JarFile/testng-6.10.jar" sourcepath="C:/Users/Ankit.Nigam/Downloads/jar_files (1)/testng-6.10.jar"/>
+	<classpathentry kind="lib" path="JarFile/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/.m2/Testng/testng-6.9.4.jar" sourcepath="D:/.m2/Testng/testng-6.9.4.jar"/>
+	<classpathentry kind="lib" path="JarFile/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="JarFile/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="JarFile/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="JarFile/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="JarFile/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="JarFile/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="JarFile/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="JarFile/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
